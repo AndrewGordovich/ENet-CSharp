@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ePmMrj+GxGBQ1SJT3mUxkmKc7hvXLOpahYqrXOzf3JBsYM1xg0PFWXHraaPwy1BQ8QMwjG8FpMH2U9DutBm+rg==",
+  "success": true,
+  "projectFilePath": "D:\\7lions\\Pet projects\\_2020_Trial\\26 NetCode2\\git\\Client\\NetCode2.Client\\Assets\\Scripts\\ENet-CSharp\\Source\\Managed\\ENet-CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sergey V\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sergey V\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

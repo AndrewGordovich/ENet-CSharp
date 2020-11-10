@@ -1,0 +1,9 @@
+D:\7lions\Pet projects\_2020_Trial\26 NetCode2\git\Client\NetCode2.Client\Assets\Scripts\ENet-CSharp\Source\Managed\.bin\x64\Debug\netstandard2.1\ENet-CSharp.deps.json
+D:\7lions\Pet projects\_2020_Trial\26 NetCode2\git\Client\NetCode2.Client\Assets\Scripts\ENet-CSharp\Source\Managed\.bin\x64\Debug\netstandard2.1\ENet-CSharp.dll
+D:\7lions\Pet projects\_2020_Trial\26 NetCode2\git\Client\NetCode2.Client\Assets\Scripts\ENet-CSharp\Source\Managed\.bin\x64\Debug\netstandard2.1\ENet-CSharp.pdb
+D:\7lions\Pet projects\_2020_Trial\26 NetCode2\git\Client\NetCode2.Client\Assets\Scripts\ENet-CSharp\Source\Managed\.obj\x64\Debug\netstandard2.1\ENet-CSharp.csprojAssemblyReference.cache
+D:\7lions\Pet projects\_2020_Trial\26 NetCode2\git\Client\NetCode2.Client\Assets\Scripts\ENet-CSharp\Source\Managed\.obj\x64\Debug\netstandard2.1\ENet-CSharp.AssemblyInfoInputs.cache
+D:\7lions\Pet projects\_2020_Trial\26 NetCode2\git\Client\NetCode2.Client\Assets\Scripts\ENet-CSharp\Source\Managed\.obj\x64\Debug\netstandard2.1\ENet-CSharp.AssemblyInfo.cs
+D:\7lions\Pet projects\_2020_Trial\26 NetCode2\git\Client\NetCode2.Client\Assets\Scripts\ENet-CSharp\Source\Managed\.obj\x64\Debug\netstandard2.1\ENet-CSharp.csproj.CoreCompileInputs.cache
+D:\7lions\Pet projects\_2020_Trial\26 NetCode2\git\Client\NetCode2.Client\Assets\Scripts\ENet-CSharp\Source\Managed\.obj\x64\Debug\netstandard2.1\ENet-CSharp.dll
+D:\7lions\Pet projects\_2020_Trial\26 NetCode2\git\Client\NetCode2.Client\Assets\Scripts\ENet-CSharp\Source\Managed\.obj\x64\Debug\netstandard2.1\ENet-CSharp.pdb
